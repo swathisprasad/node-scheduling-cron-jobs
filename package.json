@@ -1,0 +1,17 @@
+{
+  "name": "node-cron-job",
+  "version": "1.0.0",
+  "description": "Scheduling cron job in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Swathi Prasad",
+  "repository": "https://github.com/swathisprasad/node-scheduling-cron-jobs",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.3.0"
+  }
+}
